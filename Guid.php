@@ -13,7 +13,7 @@
  * @package   sweelix.guid
  */
 
-namespace sweelix\guid;
+namespace guid;
 
 /**
  * Simple guid generator.
