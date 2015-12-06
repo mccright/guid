@@ -1,12 +1,13 @@
 <?php
 /**
- * Created using Notepad++ ang Geany.
- * User: m015886 -- Matt McCright
+ * Created using Notepad++ and Geany.
+ * User: Matt McCright
  * Date: 11/29/2015
  * Requires class Guid.php from https://github.com/pgaultier/guid
  * Problem-solving from last weekend, Matt McCright
  * GUID references:
  * https://www.ietf.org/rfc/rfc4122.txt
+ * https://en.wikipedia.org/wiki/Universally_unique_identifier
  * and
  * https://en.wikipedia.org/wiki/Globally_unique_identifier
  */
