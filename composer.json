@@ -9,10 +9,10 @@
 		"email" : "pgaultier@sweelix.net"
 	} ],
 	"require" : {
-		"php" : ">=5.3.1"
+		"php" : ">=7.2.33"
 	},
 	"require-dev" : {
-		"php" : ">=5.3.0"
+		"php" : ">=7.2.33"
 	},
 	"autoload" : {
 		"psr-4" : {
